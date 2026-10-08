@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://cherynv-star.github.io/roslynycheryn/sitemap.xml
